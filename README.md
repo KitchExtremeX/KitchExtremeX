@@ -1,6 +1,91 @@
 ## Hi, I'm Kadien Coe Aka KitchExtremeX
 
 
+I'm currently an **Applied AI student at the University of Memphis**, and I'm learning how to bridge my background in creativity and multimedia with Artificial Intelligence.
+
+My experience in AI is still growing. I don't consider myself an expert, and honestly, that's one of the reasons I'm building this GitHub.
+
+Throughout the year, I've spent a lot of time experimenting with AI, testing different tools, creating things, deleting things, starting projects over, and trying to understand where I actually want to take my skills.
+
+Now I want to focus more on **building.**
+
+I want to learn how to use AI to create applications, solutions, systems, creative experiences, and eventually products that can solve real problems.
+
+## What I'm Working On 🧠
+
+Right now, I'm focused on learning more about:
+
+* Artificial Intelligence
+* AI application development
+* Python
+* AI agents and automation
+* LLMs
+* Prompt engineering
+* APIs
+* Git & GitHub
+* Creative coding
+* Building projects with AI
+* Turning ideas into actual prototypes
+
+One thing I've realized is that I learn better when I'm able to **build something, break it, figure out why it broke, and try again.**
+
+That's what I want this GitHub to represent.
+
+## Creativity + AI 🎨 × 🤖
+
+Before studying Applied AI, a lot of my experience came from **multimedia, design, content creation, and experimenting with creative technology.**
+
+Instead of leaving that background behind, I want to combine it with what I'm learning now.
+
+I want to see what happens when you combine:
+
+**Creativity + AI + Coding + Design + Problem Solving**
+
+I'm especially interested in using AI to help take an idea from something in my head into an actual working prototype.
+
+## Why I'm Building This GitHub 🚀
+
+I'm not trying to make it look like I already know everything.
+
+I want this GitHub to show my **progress.**
+
+Some projects might be simple.
+
+Some might be experiments.
+
+Some might break.
+
+Some might turn into something much bigger.
+
+The important thing for me is understanding **why something works, why it doesn't work, and what I can build from what I learned.**
+
+Over time, I want to look back at these repositories and actually see how much I've improved.
+
+## Where I'm Trying to Go
+
+My goal is to become someone who can combine **technical skills and creativity** to build things that people can actually use.
+
+I'm interested in areas like:
+
+* Applied AI
+* AI Engineering
+* Creative Technology
+* AI Product Development
+* Automation
+* AI Agents
+* Entrepreneurship
+* Human + AI Collaboration
+
+I'm still figuring out exactly where this path will take me.
+
+But instead of waiting until I have everything figured out, I'm going to keep **learning, experimenting, building, breaking things, and improving.**
+
+### Current mindset:
+
+**Idea → Build → Break → Learn → Improve → Ship**
+
+This GitHub is where I'm documenting that journey.
+
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/kitchz) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/c4tJzsgSS) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kadien-coe-898449347/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com/KitchExtremeZ/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/kadinventor) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@KitchExtremeX-X) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kscoe@memphis.edu) 
