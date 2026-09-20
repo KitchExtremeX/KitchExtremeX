@@ -1,7 +1,7 @@
 ## Hi, I'm Kadien Coe Aka KitchExtremeX
 
 
-I'm currently an **Applied AI student at the University of Memphis**, and I'm learning how to bridge my background in creativity and multimedia with Artificial Intelligence.
+I'm currently an **Applied AI student at the University of Memphis and Emerging Creative Technologist/AI Content Creator**, and I'm learning how to bridge my background in creativity and multimedia with Artificial Intelligence.
 
 My experience in AI is still growing. I don't consider myself an expert, and honestly, that's one of the reasons I'm building this GitHub.
 
